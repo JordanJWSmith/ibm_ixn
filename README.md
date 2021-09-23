@@ -10,3 +10,5 @@ There are currently two instances hosted on the web:
 * [Live Site (with real data)](http://ixnportal.com/ibmixndemo)
 
 A similar IXN Portal site was developed for NHS. This uses a database and has additional functionality such as postcode lookup and additional project filtering. Its repository can be accessed [here](https://github.com/JordanJWSmith/ixn-for-the-nhs).
+
+This project was developed in a team of three for UCL during the MSc Computer Science course.
